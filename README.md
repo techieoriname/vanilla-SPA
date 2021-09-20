@@ -1,4 +1,4 @@
-#SINGLE PAGE APPLICATION USING VANILLA JAVASCRIPT
+# SINGLE PAGE APPLICATION USING VANILLA JAVASCRIPT
 
 This template should help get you started developing with Vanilla, Typescript, and Tailwindcss in Vite.
 
